@@ -84,9 +84,6 @@
 | 项目 | 维护方 | 角色 | 简介 | 方向 | 语言 | 链接 |
 | --- | --- | --- | --- | --- | --- | --- |
 | **码的挂B** `Model-Cheater` | 本人 | 自研 | 系列总入口：理念、项目索引与方法论 | 体系 / 索引 | Markdown | [本仓库](https://github.com/Fnckerpoi/Model-Cheater) |
-| **Nexus SDLC** `dsh-plugin-nexus-sdlc` | 本人 | 自研 | 声明式 DSH Agent Preset：Claude Code 规划 / 评审 / 蒸馏，Codex 实现 / 测试 | Agent 编排 | JavaScript | [仓库](https://github.com/Fnckerpoi/dsh-plugin-nexus-sdlc) |
-| **Project Nexus** `dsh-project-nexus` | 本人 | 自研 | 以 Session 为中心的确定性多智能体研发流程 | Agent 编排 | JavaScript | [仓库](https://github.com/Fnckerpoi/dsh-project-nexus) |
-| **Sirchmunk** `dsh-plugin-sirchmunk` | 本人 | 自研 | DSH 原生 Web 插件：知识图谱、聚类、共享历史与运行时指标面板 | 记忆 / 知识 | JavaScript | [仓库](https://github.com/Fnckerpoi/dsh-plugin-sirchmunk) |
 | **Cheater-IO** `Turbo-IO` | 本人（fork 自 [Turbo1123/Turbo-IO](https://github.com/Turbo1123/Turbo-IO)） | fork / 在研 | 雷鸟 iO / RayNeo iO 非官方 SDK 与 iOS 客户端：语音 AI、录音、自定义通知、Codex 与 Web 显示预览 | 智能眼镜 / 执行 | Objective-C | [仓库](https://github.com/Fnckerpoi/Turbo-IO) |
 | _待添加_ | _本人 / 他人_ | _自研 / fork / 在用_ | _一句话说明它解决什么问题_ | _方向_ | _语言_ | _链接_ |
 
