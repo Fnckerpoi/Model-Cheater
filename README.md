@@ -6,8 +6,6 @@
 
 <p align="center"><b>开源系列总入口 · 让碳基生命也能跑 RSI</b></p>
 
-<p align="center"><sub>封面 = 系列概念示意：智能眼镜 × Agent，个人扩展方案（非官方研究）</sub></p>
-
 <p align="center">
   在 AI 时代，知识记忆不该再消耗人的精力。<br />
   这个系列把它们搬出去，交给「改进」本身。
