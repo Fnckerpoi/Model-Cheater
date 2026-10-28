@@ -136,7 +136,11 @@
 
 ## 许可
 
-[MIT](./LICENSE) © 2026 Fnckerpoi
+[Apache License 2.0](./LICENSE)
+
+Copyright © 2026 Fnckerpoi
+
+相比 MIT，Apache 2.0 在授权使用的同时额外给出**专利授权**，并要求再分发时保留版权与许可声明、标注修改过的文件、随附 `NOTICE`（本仓库暂无）。
 
 <div align="center">
 
