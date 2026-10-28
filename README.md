@@ -79,21 +79,24 @@
 
 ## 开源项目清单
 
-本系列的具体实现都在下面这张表里。新增一行即可纳入管理。
+这张表是系列的**总索引**：既收录本系列自己的实现，也收录在用、在研的他人开源项目。新增一行即可纳入管理。
 
-| 项目 | 简介 | 方向 | 语言 | 链接 |
-| --- | --- | --- | --- | --- |
-| **码的挂B** `Model-Cheater` | 系列总入口：理念、项目索引与方法论 | 体系 / 索引 | Markdown | [本仓库](https://github.com/Fnckerpoi/Model-Cheater) |
-| **Nexus SDLC** `dsh-plugin-nexus-sdlc` | 声明式 DSH Agent Preset：Claude Code 负责规划 / 评审 / 蒸馏，Codex 负责实现 / 测试，中文人格 + 四个静态委派工具 | Agent 编排 | JavaScript | [仓库](https://github.com/Fnckerpoi/dsh-plugin-nexus-sdlc) |
-| **Project Nexus** `dsh-project-nexus` | 以 Session 为中心的确定性多智能体研发流程：一个任务卡 → 一个专属 Session → 状态机驱动 | Agent 编排 | JavaScript | [仓库](https://github.com/Fnckerpoi/dsh-project-nexus) |
-| **Sirchmunk** `dsh-plugin-sirchmunk` | DSH 原生 Web 插件：知识图谱、聚类、共享历史与运行时指标面板 | 记忆 / 知识 | JavaScript | [仓库](https://github.com/Fnckerpoi/dsh-plugin-sirchmunk) |
-| _待添加_ | _下一个项目的一句话说明_ | _方向_ | _语言_ | _链接_ |
+| 项目 | 维护方 | 角色 | 简介 | 方向 | 语言 | 链接 |
+| --- | --- | --- | --- | --- | --- | --- |
+| **码的挂B** `Model-Cheater` | 本人 | 自研 | 系列总入口：理念、项目索引与方法论 | 体系 / 索引 | Markdown | [本仓库](https://github.com/Fnckerpoi/Model-Cheater) |
+| **Nexus SDLC** `dsh-plugin-nexus-sdlc` | 本人 | 自研 | 声明式 DSH Agent Preset：Claude Code 规划 / 评审 / 蒸馏，Codex 实现 / 测试 | Agent 编排 | JavaScript | [仓库](https://github.com/Fnckerpoi/dsh-plugin-nexus-sdlc) |
+| **Project Nexus** `dsh-project-nexus` | 本人 | 自研 | 以 Session 为中心的确定性多智能体研发流程 | Agent 编排 | JavaScript | [仓库](https://github.com/Fnckerpoi/dsh-project-nexus) |
+| **Sirchmunk** `dsh-plugin-sirchmunk` | 本人 | 自研 | DSH 原生 Web 插件：知识图谱、聚类、共享历史与运行时指标面板 | 记忆 / 知识 | JavaScript | [仓库](https://github.com/Fnckerpoi/dsh-plugin-sirchmunk) |
+| **Cheater-IO** `Turbo-IO` | 本人（fork 自 [Turbo1123/Turbo-IO](https://github.com/Turbo1123/Turbo-IO)） | fork / 在研 | 雷鸟 iO / RayNeo iO 非官方 SDK 与 iOS 客户端：语音 AI、录音、自定义通知、Codex 与 Web 显示预览 | 智能眼镜 / 执行 | Objective-C | [仓库](https://github.com/Fnckerpoi/Turbo-IO) |
+| _待添加_ | _本人 / 他人_ | _自研 / fork / 在用_ | _一句话说明它解决什么问题_ | _方向_ | _语言_ | _链接_ |
 
 ### 如何新增一行
 
-1. 把新仓库按 **入口 → 编排 → 记忆 → 执行** 归到某一层，写进「方向」列。
-2. 一句话说明写**它解决什么问题**，不写技术栈清单。
-3. 提交 PR，或在 Issue 里给一行表格内容。
+1. 「维护方」写明**本人 / 他人 / fork 自谁**——自己的项目和在用的他人项目都要标清楚，不冒认来源。
+2. 「角色」三选一：**自研**（本系列产出）、**fork / 在研**（在他人基础上改造）、**在用**（直接使用，注明上游）。
+3. 把仓库按 **入口 → 编排 → 记忆 → 执行** 归到某一层，写进「方向」列。
+4. 一句话说明写**它解决什么问题**，不写技术栈清单。
+5. 提交 PR，或在 Issue 里给一行表格内容。
 
 ## 路线图
 
