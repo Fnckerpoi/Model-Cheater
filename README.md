@@ -95,6 +95,7 @@
 | **码的挂B** `Model-Cheater` | 本人 | 自研 | 系列总入口：理念、项目索引与方法论 | 体系 / 索引 | Markdown | [本仓库](https://github.com/Fnckerpoi/Model-Cheater) |
 | **Cheater-IO** | 本人（fork 自 [Turbo1123/Turbo-IO](https://github.com/Turbo1123/Turbo-IO)） | fork / 在研 | 雷鸟 iO / RayNeo iO 非官方 SDK 与 iOS 客户端：语音 AI、录音、自定义通知、Codex 与 Web 显示预览 | 智能眼镜 / 执行 | Objective-C | [仓库](https://github.com/Fnckerpoi/Cheater-IO) |
 | **openvela BES 芯片支持** `vendor_bes` | 他人（open-vela / 恒玄科技；方案由润欣科技提供） | 参考 | 为 BES2600 等芯片及开发板提供 openvela 适配与硬件驱动，支持可穿戴与 AIoT 设备开发；上游提示包含专有代码，使用前须核对许可 | 嵌入式 / 执行 | C / Linker Script | [仓库](https://github.com/open-vela/vendor_bes) · [中文说明](https://github.com/open-vela/vendor_bes/blob/dev/README_zh-cn.md) |
+| **Cortrix** | 本人（fork 自 [cortrix/cortrix](https://github.com/cortrix/cortrix)） | fork / 在研 | 面向 Agent 的语义存储与检索；计划基于 Obsidian 数据源构建支持远程 MCP 的知识库 SaaS，部署与多租户隔离尚待验证 | 记忆 / 知识检索 | C++ | [仓库](https://github.com/Fnckerpoi/cortrix) |
 | _待添加_ | _本人 / 他人_ | _自研 / fork / 在用 / 参考_ | _一句话说明它解决什么问题_ | _方向_ | _语言_ | _链接_ |
 
 ### 如何新增一行
