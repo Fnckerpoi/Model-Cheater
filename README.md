@@ -111,7 +111,7 @@
 | **openvela BES 芯片支持** `vendor_bes` | 他人（open-vela / 恒玄科技；方案由润欣科技提供） | 参考 | 为 BES2600 等芯片及开发板提供 openvela 适配与硬件驱动，支持可穿戴与 AIoT 设备开发；上游提示包含专有代码，使用前须核对许可 | 嵌入式 / 执行 | C / Linker Script | [仓库](https://github.com/open-vela/vendor_bes) · [中文说明](https://github.com/open-vela/vendor_bes/blob/dev/README_zh-cn.md) |
 | **Cortrix** | 本人（fork 自 [cortrix/cortrix](https://github.com/cortrix/cortrix)） | fork / 在研 | 面向 Agent 的语义存储与检索；计划基于 Obsidian 数据源构建支持远程 MCP 的知识库 SaaS，部署与多租户隔离尚待验证 | 记忆 / 知识检索 | C++ | [仓库](https://github.com/Fnckerpoi/cortrix) |
 | **DeepSeek Harness** `dsh` | 他人（DeepSeek AI） | 在用 | 开源 Agent Harness，「万物皆插件」架构，本系列核心理念的来源；开发者预览阶段，会有不兼容变更 | 编排 / 执行 | TypeScript | [仓库](https://github.com/deepseek-ai/deepseek-harness) |
-| **Agents Anywhere** | 本人（fork 自 [anywhere-labs/Agents-Anywhere](https://github.com/anywhere-labs/Agents-Anywhere)） | fork | 跨设备的开源 Agent 工作台：在桌面、手机和 Web 管理工作设备上运行的 Codex、Claude Code 与 DSH 会话；当前 fork 暂无自有改动，许可以上游声明为准 | 入口 / 跨设备 | TypeScript | [仓库](https://github.com/Fnckerpoi/Agents-Anywhere/tree/main) |
+| **Agents Anywhere** | 本人（fork 自 [anywhere-labs/Agents-Anywhere](https://github.com/anywhere-labs/Agents-Anywhere)） | fork / 在研 | 跨设备的开源 Agent 工作台：在桌面、手机和 Web 管理工作设备上运行的 Codex、Claude Code 与 DSH 会话；许可声明待补，计划采用 Apache License 2.0（上游为 MIT） | 入口 / 跨设备 | TypeScript | [仓库](https://github.com/Fnckerpoi/Agents-Anywhere/tree/main) |
 | _待添加_ | _本人 / 他人_ | _自研 / fork / 在用 / 参考_ | _一句话说明它解决什么问题_ | _方向_ | _语言_ | _链接_ |
 
 ### 如何新增一行
