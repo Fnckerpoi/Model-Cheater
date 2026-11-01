@@ -112,6 +112,7 @@
 | **Cortrix** | 本人（fork 自 [cortrix/cortrix](https://github.com/cortrix/cortrix)） | fork / 在研 | 面向 Agent 的语义存储与检索；计划基于 Obsidian 数据源构建支持远程 MCP 的知识库 SaaS，部署与多租户隔离尚待验证 | 记忆 / 知识检索 | C++ | [仓库](https://github.com/Fnckerpoi/cortrix) |
 | **DeepSeek Harness** `dsh` | 他人（DeepSeek AI） | 在用 | 开源 Agent Harness，「万物皆插件」架构，本系列核心理念的来源；开发者预览阶段，会有不兼容变更 | 编排 / 执行 | TypeScript | [仓库](https://github.com/deepseek-ai/deepseek-harness) |
 | **Agents Anywhere** | 本人（fork 自 [anywhere-labs/Agents-Anywhere](https://github.com/anywhere-labs/Agents-Anywhere)） | fork / 在研 | 跨设备的开源 Agent 工作台：在桌面、手机和 Web 管理工作设备上运行的 Codex、Claude Code 与 DSH 会话；许可声明待补，计划采用 Apache License 2.0（上游为 MIT） | 入口 / 跨设备 | TypeScript | [仓库](https://github.com/Fnckerpoi/Agents-Anywhere/tree/main) |
+| **dsh-superagent-prototype** | 本人（fork 自 [deepseek-ai/dsh-superagent-prototype](https://github.com/deepseek-ai/dsh-superagent-prototype)） | fork / 在研 | 基于 DSH 的全功能 Superagent 原型：门禁规则、多项目 Session 路由与 5s 转后台异步交付，用于眼镜端免切换调度多项目 | 编排 / 路由 | TypeScript | [仓库](https://github.com/Fnckerpoi/dsh-superagent-prototype) |
 | _待添加_ | _本人 / 他人_ | _自研 / fork / 在用 / 参考_ | _一句话说明它解决什么问题_ | _方向_ | _语言_ | _链接_ |
 
 ### 如何新增一行
