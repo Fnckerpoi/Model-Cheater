@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/cover.jpg" width="880" alt="码的挂B · Model-Cheater 封面：让智能眼镜成为 Agent 入口（概念示意）" />
+  <img src=".assets/cover.jpg" width="880" alt="码的挂B · Model-Cheater 封面：让智能眼镜成为 Agent 入口（概念示意）" />
 </div>
 
 <h1 align="center">码的挂B · Model-Cheater</h1>
